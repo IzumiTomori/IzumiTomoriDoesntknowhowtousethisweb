@@ -9,3 +9,4 @@ IzumiTomori/IzumiTomori is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Hi, help me, I still don't understand to use this website help... but I can code, but how to use this web... Help me😂😂😂😂
+Ok I think I'm starting to understand how it works.
